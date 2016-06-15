@@ -114,6 +114,9 @@
   - while bacon cooks, return to making sandwich
   - remove 2 leaves of lettuce from lettuce head
   - place both pieces of lettuce on top of bread slice on left side of plate
+  - walk to sink
+  - remove cutting board from counter next to sink
+  - place cutting board next to plate
   - place tomato on cutting board so that stem and end are pointing horizontally
   - using knife, slice tomato into 1/4" slices
   - pick up stem and end slices
